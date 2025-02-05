@@ -1,60 +1,73 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<h3 align="center">
-  Welcome to Ahmed Mohamed Ramadan's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing effect for a cool introduction -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer+Trainee;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
 
-🔹 Full Stack .NET Developer Trainee | ITI 9-Month Program
-💡 Passionate about designing and developing scalable web applications.
+---
 
-🔹 Tech Stack:
+### 👋 Hi there! 
+I'm **Ahmed Ramadan**, a passionate **Full Stack .NET Developer Trainee** currently enrolled in the ITI 9-Month Program. I specialize in building robust and scalable web applications using the .NET ecosystem and modern front-end technologies.
 
-✔ Backend: C#, .NET Core, ASP.NET MVC, Web API, Entity Framework Core
+---
 
-✔ Frontend: Angular, TypeScript JavaScript, HTML, CSS, Bootstrap
+### 🛠️ Technologies & Tools
+Here are the technologies and tools I work with:
 
-✔ Database: SQL Server, LINQ, Query Optimization
+#### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ADO.NET" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="LINQ" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/API-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="API" />
+</p>
 
-✔ Tools & DevOps: Git, Docker, Postman, CI/CD
+#### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-🎓 Computer Science Graduate | Strong foundation in OOP, Data Structures & Algorithms
+#### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+</p>
 
-### Connect with Me :
-<a href="https://www.linkedin.com/in/ahmed-ramadan-28333423a/" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Ramadan-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://t.me/AHMD_MO_RMDN" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Ramadan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+---
 
-### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=ffffff)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=512BD4)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=aspnet&logoColor=5C2D91)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=entityframework&logoColor=0074C4)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=5C2D91)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor&logoColor=512BD4)&nbsp;
+### 📫 How to Reach Me
+Let's connect! Feel free to reach out to me for collaborations, questions, or just to say hi. 😊
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-ramadan-28333423a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmed.mohamed.ramadan010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedramadan&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+---
 
-<a href="https://github.com/ahmedramadan">
-    <img src="https://komarev.com/ghpvc/?username=ahmedramadan&style=for-the-badge">
-</a>
+### 💻 Projects
+Here are some of the projects I've worked on:
 
+#### 1. Gaming Project
+- **Description**: A project that provides information about various games, including details about the devices they can be played on and other gaming-related information.
+- **GitHub Repository**: [Gaming Project](https://github.com/ahmedmoramadan/Gamaing)
 
+#### 2. Movies E-commerce
+- **Description**: A platform where users can view information about movies, book tickets, and explore movie details.
+- **GitHub Repository**: [Movies E-commerce](https://github.com/ahmedmoramadan/Movies_ecommerce)
+
+---
