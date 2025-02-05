@@ -1,14 +1,17 @@
+<!-- Welcome Message -->
+<h1 align="center">Welcome to Ahmed Ramadan's GitHub 👋</h1>
+
 <!-- Typing effect for a cool introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer+Trainee;Building+Scalable+Web+Applications;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👋 Hi there! 
-I'm **Ahmed Ramadan**, a passionate **Full Stack .NET Developer Trainee** currently enrolled in the ITI 9-Month Program. I specialize in building robust and scalable web applications using the .NET ecosystem and modern front-end technologies. I love solving problems, learning new technologies, and creating impactful software solutions.
+### 👋 About Me
+I'm **Ahmed Ramadan**, a passionate **Full Stack .NET Developer Trainee** in the ITI 9-Month Program. I specialize in building robust and scalable web applications using **.NET** and modern front-end technologies. I love solving problems, learning new technologies, and creating impactful software solutions.
 
 ---
 
@@ -88,6 +91,11 @@ Here's a snapshot of my GitHub activity:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmoramadan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+
+### 🌟 Fun Fact
+I'm constantly learning and exploring new technologies to improve my skills and build better solutions. Let's create something amazing together! 🚀
 
 ---
 
